@@ -1,1 +1,4 @@
-
+An updated version of the Mikro Assembler for the Commodore 64 was released FREE with the Commodore Disk User Magazine Vol.2 Issue 4 published May/June 1989.
+This version is called 6510+ and similar to the version of Mikro released by the cracking team "The Silents", the assembler loads from disk and does not require a cartridge.
+The disk contains assembler program file called 6510+ and the instructions on how to use the assembler as well as more advanced technical details concerning memory locations that are reserved by the assembler are included in the magazine (PDF file).
+You can load via the main menu on the disk (by loading the first file on the disk) or you can directly load the assembler from the disk typing LOAD"6510+",8,1, once the file is loaded you type SYS64738, to run the assembler.
