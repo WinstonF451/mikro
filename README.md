@@ -1,4 +1,16 @@
-# Mikro Assembler
+# 6510+
+An updated / improved version of the Mikro Assembler cartridge for the Commodore 64 was released FREE with the Commodore Disk User Magazine Vol.2 Issue 4 published May/June 1989.
+This version is called 6510+, the 6510+ assembler loads from disk and does not require a cartridge.  
+The disk contains assembler program file called 6510+ and the instructions on how to use the assembler as well as more advanced technical details concerning memory locations that are used / reserved by the assembler are included in the magazine (PDF file). It should be noted that a disk file based version of Mikro was also separately released by the cracking group "The Silents".
+
+You can load via the main menu on the disk (by loading the first file on the disk) or you can directly load the assembler from the disk typing LOAD"6510+",8,1, once the file is loaded you type SYS64738, to run the assembler.
+The files (Magazine PDF and .d64 image) are located in the 6510+ directoy, ENJOY :) 
+
+!![Screenshot of 6510+ assembler](6510+/6510+.jpg)
+
+This Fork also contains the original files for Mikro Assembler as described below:
+
+## Mikro Assembler
 
 ![Screenshot of Mikro Assembler interface](images/mikro-assembler-start.png)
 
@@ -43,3 +55,5 @@ You can download a disc image with the source code and assembled files for these
 ## Summary
 
 This repository provides everything you need to get started with the Mikro Assembler, including downloads of the cartridge, manual, and example code. With the Mikro Assembler, you can write assembly code using a familiar BASIC-style interface and take advantage of its built-in machine code monitor. Try it out for yourself!
+
+
