@@ -3,8 +3,8 @@ An updated / improved version of the Mikro Assembler cartridge for the Commodore
 This version is called 6510+, the 6510+ assembler loads from disk and does not require a cartridge. 
 The files (Magazine PDF and .d64 image) are located in the 6510+ directory. 
 The 6510+ directory contains the .d64 disk image as released with the magazine, the assembler program file is called 6510+ and the instructions on how to use the assembler as well as more advanced technical details concerning memory locations that are used / reserved by the assembler are included in the magazine (PDF file also in the 6510+ directory). 
-It should be noted that a disk file based version of Mikro was also separately released by the cracking group "The Silents".
-Also included in the folder is a series featured in Commodore Format magazine issue 45-50 June-Nover 1994 of a 6502 assembly language tutorial using the 6510+ assembler.  
+It should be noted that a disk file based version of Mikro was also separately released by the cracking group "The Silents". 
+Also included in the folder is a series featured in Commodore Format magazine issues 45-50 (June-Nov 1994) of a 6502 assembly language tutorial using the 6510+ assembler.  
 
 You can directly load the assembler from the disk typing LOAD"6510+",8,1, once the file is loaded you type SYS64738, to run the assembler.
 Also you can load 6510+ via the main menu system on the disk (by loading the first file on the disk and then selecting 6510+). 
